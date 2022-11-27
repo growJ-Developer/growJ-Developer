@@ -12,4 +12,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://velog.io/@addps5012" target="_blank"><img src="https://img.shields.io/badge/Velog-1E1E1E?style=flat-square&logo=Velog&logoColor=20C997"/></a>
+<a href="https://www.instagram.com/grow_up._.j/" target="_blank"><img src="https://img.shields.io/badge/Instagram-1E1E1E?style=flat-square&logo=Instagram&logoColor=E4405F"/></a>
 
