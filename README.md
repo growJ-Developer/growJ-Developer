@@ -7,8 +7,7 @@
 
 ## Githib staus here! (All repositories are private.)
 
-![growJ-Developer's gitHub stats](https://github-readme-stats.vercel.app/api?username=growJ-Developer&show_icons=true&theme=vue-dark) 
-[![growJ-Developer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=growJ-Developer&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/growJ-Developer)
+![growJ-Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=growJ-Developer&show_icons=true&theme=vue-dark)
 
 ## You can find my algorithm level in here! (I'm novice developer...)
 
