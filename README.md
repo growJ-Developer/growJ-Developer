@@ -11,5 +11,5 @@ growJ-Developer/growJ-Developer is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://velog.io/@addps5012" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=flat-square&logo=Velog&logoColor=#1E1E1E"/></a>
+<a href="https://velog.io/@addps5012" target="_blank"><img src="https://img.shields.io/badge/Velog-FFFFFF?style=flat-square&logo=Velog&logoColor=1E1E1E"/></a>
 
